@@ -21,7 +21,7 @@ function Project() {
                             <h2> My Portfolio</h2>
                             <p>My Portfolio features a collection of projects that reflect my commitment to delivering top-tier
                                 web solutions. I take pride in developing user-friendly and efficient applications. </p>
-                            <a href=""><b><button>Read More </button></b></a>
+                            <a href="https://himanshukumawat.netlify.app/"><b><button>Read More </button></b></a>
 
                         </div>
 
@@ -54,7 +54,7 @@ function Project() {
                                 This is a todo web application that is based on web dev.
                                 By using this can add our daily task into this todo application.
                             </p>
-                            <a href=""><b><button>Read More </button></b></a>
+                            <a href="https://www.linkedin.com/in/himanshu-kumawat-86a22b300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><b><button>Read More </button></b></a>
 
                         </div>
 
@@ -85,7 +85,7 @@ function Project() {
                         <div class="projectinfo">
                             <h2>Chrome Extension</h2>
                             <p>This Color Picker Chrome Extension is a simple yet effective tool designed to help users select and identify colors from any webpage. Built using HTML, CSS, and JavaScript skillset . </p>
-                            <a href=""><b><button>Read More </button></b></a>
+                            <a href="https://www.linkedin.com/in/himanshu-kumawat-86a22b300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><b><button>Read More </button></b></a>
 
 
                         </div>
