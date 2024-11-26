@@ -11,7 +11,7 @@ function Navbar() {
         <>
             <header>
                 <nav className="navbar">
-                    <div className="logo">HIMANSHU VERMA</div>
+                    <div className="logo">Ritik</div>
                     <div className="toggle" id="toggle" onClick={toggleMenu}>
                         &#9776;
                     </div>

@@ -3,7 +3,7 @@ import React from 'react'
 function Project() {
     return (
         <>
-            <div class="project" id="P">
+            {/* <div class="project" id="P">
 
 
                 <h2 class="projectheading"> <i class="fa-solid fa-shield-heart fa-sm "></i> PROJECTS <i
@@ -81,7 +81,7 @@ function Project() {
 
 
                 </div>
-            </div>
+            </div> */}
 
         </>
     )

@@ -7,7 +7,7 @@ html {
     box-sizing: border-box;
     /* overflow-y: scroll; */
     scrollbar-width: none;
-    background-color: #010114;
+    background-color: #170d17;
 
 
 }
@@ -23,7 +23,7 @@ width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #010114;
+background-color: #170d17;
     padding: 10px 20px;
    
 }
@@ -135,7 +135,7 @@ width: 100%;
 }
 
 .hero-text h1 span {
-    color: #02fce7;
+    color: #de18c3;
 
 }
 
@@ -356,7 +356,7 @@ width: 100%;
     display: flex;
     flex-wrap: wrap;
     padding: 20px;
-    background-color: #010114;
+    background-color: #170d17;
     border-radius: 8px;
 
 }
@@ -415,12 +415,14 @@ width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 200px;
+    padding-top: 0px;
+   
 }
 
 .aboutimg img {
     max-width: 100%;
-    height: auto;
+    /* height: auto; */
     width: 100%;
     border-radius: 50%;
     animation: scaleAnimation 3s ease infinite;
